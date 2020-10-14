@@ -11,7 +11,6 @@ const RESOURCES = {
 "assets/NOTICES": "8e0470e4a2602cce079dcc573e4e48be",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
-"audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
 "feed.xml": "408686e7c418edeec1af89656038b1c1",
 "img/icon.jpg": "900666dc913f9acaa2d76127a2972814",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
