@@ -1,5 +1,3 @@
-# Podcast Player
+# Riyadh Resistance Committee Podcast Player
 
-- Podcast RSS Feed: https://rodydavis.github.io/podcast-player/feed.xml
-
-- Podcast Player: https://rodydavis.github.io/podcast-player/
+- Podcast RSS Feed: https://riyadhrc.github.io/player/web/feed.xml
