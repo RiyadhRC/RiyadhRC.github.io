@@ -19,6 +19,7 @@ const RESOURCES = {
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
+"feedvalid.xml": "0663fb0e6bd1e777eae3a8f92f577125",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"
 };
