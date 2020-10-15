@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Riyadh Resistance Committee Podcast</title>
+    <googleplay:author>Riyadh Resistance Committee</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Khartoum, Sudan</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Riyadh Resistance Committee</author>
+    <itunes:author>Riyadh Resistance Committee</itunes:author>
+    <itunes:email>riyahd.committee@gmail.com</itunes:email>
+    <itunes:category text="Politics" />
+    <image>
+      <url>https://riyadhrc.github.io/player/web/img/icon.jpg</url>
+      <title>Riyadh Resistance Committee Podcast</title>
+      <link>https://riyadhrc.github.io/player/web/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Riyadh Resisance Committee</itunes:name>
+      <itunes:email>riyahd.committee@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>politics,sudan</itunes:keywords>
+    <copyright>Riyadh Resisance Committee</copyright>
+    <description>A modern way for the people of Riyadh to keep up with the news</description>
+    <googleplay:image href="https://riyadhrc.github.io/player/web/img/icon.jpg" />
+    <language>ar</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://riyadhrc.github.io/player/web/feed.xml</link>
+    <itunes:image href="https://riyadhrc.github.io/player/web/img/icon.jpg" />
+    <item>
+      <author>Riyadh Resistance Committee</author>
+      <itunes:author>Riyadh Resistance Committee</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/RiyadhRC/RiyadhRC.github.io/master/player/web/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Norbert Kozsir - @norbertkozsir
+
+https://twitter.com/norbertkozsir
+
+https://github.com/norbert515
+
+
+Rody Davis - @rodydavis
+
+https://twitter.com/rodydavis
+
+https://github.com/rodydavis
+
+https://youtube.com/rodydavis
+
+https://rodydavis.com
+
+Our podcast player: 
+
+https://riyadhrc.github.io/player/web/
+        </description>
+    </item>
+  </channel>
+</rss>
