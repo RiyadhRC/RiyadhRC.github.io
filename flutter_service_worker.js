@@ -12,7 +12,7 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
-"feed.xml": "73276a4656cf684f2db5bbbeeb25c105",
+"feed.xml": "0663fb0e6bd1e777eae3a8f92f577125",
 "img/icon.jpg": "900666dc913f9acaa2d76127a2972814",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "main.dart.js": "fa55d961221f15f3e80c53f9e52ccdab",
