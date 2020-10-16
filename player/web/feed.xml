@@ -28,37 +28,16 @@
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://riyadhrc.github.io/player/web/feed.xml</link>
     <itunes:image href="https://riyadhrc.github.io/player/web/img/icon.jpg" />
-    <item>
-      <author>Riyadh Resistance Committee</author>
-      <itunes:author>Riyadh Resistance Committee</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://riyadhrc.github.io/player/web/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <item>
+      <author>Unknown</author>
+      <itunes:author>Unknown</itunes:author>
+      <title>??????? 23 ?????? 1954 ??? ???? ??????</title>
+      <pubDate> Fri,  16 Oct 2020 21:00:00 EET</pubDate>
+      <enclosure url="https://ia801308.us.archive.org/4/items/souden1954-tessgilette-zemene/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%2023%20%D8%AC%D9%88%D9%8A%D9%84%D9%8A%D8%A9%201954.mp3" type="audio/mpeg" length="1541" />
+      <itunes:duration>25:41:00</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://riyadhrc.github.io/player/web/
-        </description>
-    </item>
+      <description>Pilot episode to test the cast</description>
+      </item>
   </channel>
 </rss>
