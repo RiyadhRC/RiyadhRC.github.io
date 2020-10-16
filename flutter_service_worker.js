@@ -12,14 +12,14 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
-"feed.xml": "b36515cc44ec0ee8a3245c0ef60b9a8e",
+"feed.xml": "fdf34386fbf5ecca243c28680f89bf1b",
 "img/icon.jpg": "900666dc913f9acaa2d76127a2972814",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "main.dart.js": "fa55d961221f15f3e80c53f9e52ccdab",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
-"feedvalid.xml": "0663fb0e6bd1e777eae3a8f92f577125",
+"feedvalid.xml": "b36515cc44ec0ee8a3245c0ef60b9a8e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"
 };
