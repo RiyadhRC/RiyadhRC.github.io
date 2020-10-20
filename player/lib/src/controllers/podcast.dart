@@ -12,7 +12,7 @@ class PodcastController {
   final _playingEpisode = ValueNotifier<Episode>(null);
 
   void load() async {
-    var podcast = await Podcast.loadFeed(url: 'https://riyadhrc.github.io/player/web/feed.xml');
+    var podcast = await Podcast.loadFeed(url: kPodcastFeed);
     _podcast.value = podcast;
   }
 
