@@ -12,6 +12,7 @@ const RESOURCES = {
 "favicon.png": "03ae1a0946466c695501a5cc476ff3a8",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
+"audio/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%2023%20%D8%AC%D9%88%D9%8A%D9%84%D9%8A%D8%A9%201954.mp3": "56124fba2e2ab5d3b4bc787dcbbeb440",
 "feed.xml": "4621c8e7867ca50a7b57267fc99bcb49",
 "favicon.bkp.png": "5dcef449791fa27946b3d35ad8803796",
 "img/icon1.jpg": "03ae1a0946466c695501a5cc476ff3a8",
