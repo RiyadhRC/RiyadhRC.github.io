@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "1ccb34e1510f10e8c84702ed9bd39a9f",
+"assets/NOTICES": "d0a87f824ccd710a845c282021185009",
 "favicon.png": "03ae1a0946466c695501a5cc476ff3a8",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555",
