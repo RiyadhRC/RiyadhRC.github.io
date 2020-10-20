@@ -19,8 +19,8 @@ const RESOURCES = {
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "main.dart.js": "d8cd4e57c1b960b3f762dcf1374e79a0",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
-"index.html": "2dfdade837632d9630a6ca0d4a420179",
-"/": "2dfdade837632d9630a6ca0d4a420179",
+"index.html": "ae3fb9662fe74895ed990458646f2dc1",
+"/": "ae3fb9662fe74895ed990458646f2dc1",
 "feedvalid.xml": "b36515cc44ec0ee8a3245c0ef60b9a8e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"
