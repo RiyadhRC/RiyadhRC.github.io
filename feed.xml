@@ -22,12 +22,12 @@
     <itunes:keywords>politics,sudan</itunes:keywords>
     <copyright>Riyadh Resisance Committee</copyright>
     <description>A modern way for the people of Riyadh to keep up with the news</description>
-    <googleplay:image href="https://riyadhrc.github.io/player/web/img/icon.jpg" />
+    <googleplay:image href="https://riyadhrc.github.io/player/web/img/icon.png" />
     <language>ar</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://riyadhrc.github.io/player/web/feed.xml</link>
-    <itunes:image href="https://riyadhrc.github.io/player/web/img/icon.jpg" />
+    <itunes:image href="https://riyadhrc.github.io/player/web/img/icon.png" />
       <item>
       <author>Unknown</author>
       <itunes:author>Unknown</itunes:author>
